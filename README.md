@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi there! I'm Teja Naga Sai Pilla, an Electronics and Communication Engineering (ECE) student at Velagapudi Ramakrishna Siddhartha Engineering College.<br>I’m passionate about embedded systems, circuit design, and real-world hardware projects.<br><br>💡 What I Do<br><br>Design and simulate PCB circuits using KiCad & Proteus<br><br>Work on microcontrollers like 8051, Arduino, and ARM Cortex-M<br><br>Explore signal processing and IoT-based embedded projects<br><br>Create content on tech, learning opportunities, and hardware hacks<br><br>🧠 Currently Learning<br><br>Embedded C and RTOS<br><br>ARM-based development<br><br>Python for hardware automation<br><br>PCB design best practices<br><br>🚀 Projects<br><br>🔌 AC to DC Converter (KiCad design)<br><br>⚙️ Resistor Value Prediction using CNN (MATLAB)<br><br>💉 Artificial Pancreas System (real-time blood glucose control)<br><br>🔊 Signal Processing for EPICS project
+Hi there! I'm Teja Naga Sai Pilla, an Electronics and Communication Engineering (ECE) student at Velagapudi Ramakrishna Siddhartha Engineering College.<br>I’m passionate about embedded systems, circuit design, and real-world hardware projects.
 
 
 ## 🌐 Socials:
